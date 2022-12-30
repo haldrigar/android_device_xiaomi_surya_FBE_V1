@@ -218,7 +218,6 @@ vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc
 -vendor/lib64/libvideofilter_only.so
 -vendor/lib64/libvidhance.so
 -vendor/lib64/libxmi_high_dynamic_range.so
--vendor/lib64/libxml2_vendor.so
 
 # Camera components
 vendor/lib64/camera/components/etc/visidon_clearshot_params.xml
